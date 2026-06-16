@@ -1,0 +1,43 @@
+# Ignore Maven configuration
+pom.xml
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Java compiled files
+*.class
+
+# Log files
+*.log
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Java archives
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code (if used)
+.vscode/
+
+# IntelliJ IDEA (if used)
+.idea/
+*.iml
+
+# Spring Boot
+logs/
